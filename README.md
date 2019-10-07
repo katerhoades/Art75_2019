@@ -1,12 +1,12 @@
 # Art75 /// 2019
 
-#*** p5 tutorials *** <br>
+# *** p5 tutorials *** <br>
 Basic Shapes: https://github.com/katerhoades/intro_p5
 Colors: https://github.com/katerhoades/p5_colors
 Using Images: https://github.com/katerhoades/p5_images
 Interactivity: https://github.com/katerhoades/p5_interactivity/
 <br><br>
-#*** Internet-Related Art Lectures *** <br>
+# *** Internet-Related Art Lectures *** <br>
 Net Art (art on the early internet): https://github.com/katerhoades/net_art
 Video on the Internet: https://github.com/katerhoades/videos_on_the_internet
 <br><br>
