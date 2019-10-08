@@ -2,7 +2,7 @@
 
 # Tutorials related to Project 3 <br>
 Setting up a separate repository for your project: https://github.com/katerhoades/NetartSetup<br><br>
-
+Embedding Videos with HTML5: https://github.com/katerhoades/Videohtml5<br><br>
 ***P5 Tutorials***<br><br>
 Basic Shapes: https://github.com/katerhoades/intro_p5 <br><br>
 Colors: https://github.com/katerhoades/p5_colors <br><br>
