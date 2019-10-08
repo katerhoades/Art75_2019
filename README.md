@@ -21,6 +21,8 @@ Projection Mapping tutorial: https://github.com/katerhoades/ProjectionMapping/bl
 <br><br>
 Github porfolio setup tutorial: https://github.com/katerhoades/GithubSetup/blob/master/README.md
 <br><br>
+Using GitHub Desktop and Atom: https://github.com/katerhoades/AtomDemo
+<br><br>
 Example portfolio site repository (feel free to copy this!) https://github.com/katerhoades/katerhoades.github.io
 <br><br>
 * [Lynda.com](https://www.lynda.com) --> This is a very valuable resource that you get for **FREE** with your SJSU library card and pin. Lynda.com has the most reliable and trustworthy tutorials--> SIGN UP for a card at the SJSU library and [use this link](https://www.lynda.com/portal/patron?org=sjlibrary.org&triedlogout=true) to log in to Lynda with your San Jose Public Library Card (or just do a search for "Lynda SJPL").
