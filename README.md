@@ -7,7 +7,7 @@
 [Basic Shapes](https://github.com/katerhoades/intro_p5) <br><br>
 [Colors](https://github.com/katerhoades/p5_colors) <br><br>
 [Using Images](https://github.com/katerhoades/p5_images) <br><br>
-[Interactivity] (https://github.com/katerhoades/p5_interactivity/)<br><br>
+[Interactivity](https://github.com/katerhoades/p5_interactivity/)<br><br>
 [(Advanced) Sprite creaion and control](https://github.com/katerhoades/PlaySprites)<br><br>
 
 <br><br>
