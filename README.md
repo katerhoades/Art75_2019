@@ -3,7 +3,7 @@
 # Tutorials related to Project 3 <br>
 Setting up a separate repository for your project: https://github.com/katerhoades/NetartSetup<br><br>
 
-***P5 Tutorial***
+***P5 Tutorials***<br><br>
 Basic Shapes: https://github.com/katerhoades/intro_p5 <br><br>
 Colors: https://github.com/katerhoades/p5_colors <br><br>
 Using Images: https://github.com/katerhoades/p5_images <br><br>
