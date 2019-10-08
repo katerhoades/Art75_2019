@@ -12,8 +12,8 @@
 
 <br><br>
 # Internet-Related Art Lectures <br>
-[Net Art (art on the early internet)] (https://github.com/katerhoades/net_art) <br><br>
-[Video on the Internet] (https://github.com/katerhoades/videos_on_the_internet)<br><br>
+[Net Art (art on the early internet)](https://github.com/katerhoades/net_art) <br><br>
+[Video on the Internet](https://github.com/katerhoades/videos_on_the_internet)<br><br>
 <br><br>
 
 # Other Tutorials and Resources
