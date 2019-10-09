@@ -1,6 +1,7 @@
 # Art75 /// 2019
 
 # Tutorials related to Project 3 <br>
+[Using GitHub Desktop and Atom](https://github.com/katerhoades/AtomDemo)<br><br>
 [Setting up a separate repository for your project](https://github.com/katerhoades/NetartSetup)<br><br>
 [Embedding Videos with HTML5](https://github.com/katerhoades/Videohtml5)<br><br>
 ***P5 Tutorials***<br><br>
@@ -20,8 +21,6 @@
 [Projection Mapping tutorial](https://github.com/katerhoades/ProjectionMapping/blob/master/README.md)
 <br><br>
 [Github porfolio setup tutorial](https://github.com/katerhoades/GithubSetup/blob/master/README.md)
-<br><br>
-[Using GitHub Desktop and Atom](https://github.com/katerhoades/AtomDemo)
 <br><br>
 [Finishing touches and styling for your portfolio website](https://github.com/katerhoades/PortfolioStyling)
 <br><br>
