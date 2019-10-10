@@ -9,7 +9,7 @@
 [Colors](https://github.com/katerhoades/p5_colors) <br><br>
 [Using Images](https://github.com/katerhoades/p5_images) <br><br>
 [Interactivity](https://github.com/katerhoades/p5_interactivity/)<br><br>
-[How to add your p5 code to a webpage](https://github.com/katerhoades/BasicJavaPage/blob/master/README.md)<br>
+[How to add your p5 code to a webpage](https://github.com/katerhoades/BasicJavaPage/blob/master/README.md)<br><br>
 [(Advanced) Sprite creaion and control](https://github.com/katerhoades/PlaySprites)<br><br>
 
 <br><br>
