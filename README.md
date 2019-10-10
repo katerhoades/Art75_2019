@@ -10,7 +10,9 @@
 [Using Images](https://github.com/katerhoades/p5_images) <br><br>
 [Interactivity](https://github.com/katerhoades/p5_interactivity/)<br><br>
 [How to add your p5 code to a webpage](https://github.com/katerhoades/BasicJavaPage/blob/master/README.md)<br><br>
-[(Advanced) Sprite creaion and control](https://github.com/katerhoades/PlaySprites)<br><br>
+More advanced tutorials can be found here:<br>
+[Creative Coding by Allison Parrish](https://creative-coding.decontextualize.com/)<br><br>
+[Coding Train on Youtube](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
 
 <br><br>
 # Internet-Related Art Lectures <br>
