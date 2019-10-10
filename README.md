@@ -7,8 +7,8 @@
 ## P5 Tutorials<br><br>
 [Basic Shapes](https://github.com/katerhoades/intro_p5) <br><br>
 [Colors](https://github.com/katerhoades/p5_colors) <br><br>
-[Using Images](https://github.com/katerhoades/p5_images) <br><br>
 [Interactivity](https://github.com/katerhoades/p5_interactivity/)<br><br>
+[Using Images](https://github.com/katerhoades/p5_images) <br><br>
 [How to add your p5 code to a webpage](https://github.com/katerhoades/BasicJavaPage/blob/master/README.md)<br><br>
 ***More advanced tutorials can be found here:***<br><br>
 [Creative Coding by Allison Parrish](https://creative-coding.decontextualize.com/)<br><br>
