@@ -4,6 +4,7 @@
 [Using GitHub Desktop and Atom](https://github.com/katerhoades/AtomDemo)<br><br>
 [Setting up a separate repository for your project](https://github.com/katerhoades/NetartSetup)<br><br>
 [Embedding Videos with HTML5](https://github.com/katerhoades/Videohtml5)<br><br>
+Need help with very basic HTML? Check out [w3schools](https://www.w3schools.com/html/html_basic.asp)
 ## P5 Tutorials<br><br>
 [Basic Shapes](https://github.com/katerhoades/intro_p5) <br><br>
 [Colors](https://github.com/katerhoades/p5_colors) <br><br>
