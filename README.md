@@ -11,6 +11,7 @@ Need help with very basic HTML? Check out [w3schools](https://www.w3schools.com/
 [Interactivity](https://github.com/katerhoades/p5_interactivity/)<br><br>
 [Using Images](https://github.com/katerhoades/p5_images) <br><br>
 [How to add your p5 code to a webpage](https://github.com/katerhoades/BasicJavaPage/blob/master/README.md)<br><br>
+You can see my example sketch [here](https://katerhoades.github.io/BasicJavaPage/index.html) and the code for it [here](https://github.com/katerhoades/BasicJavaPage/blob/master/sketch.js).
 ***More advanced tutorials can be found here:***<br><br>
 [Creative Coding by Allison Parrish](https://creative-coding.decontextualize.com/)<br><br>
 [Coding Train on Youtube](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
