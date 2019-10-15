@@ -18,6 +18,7 @@ You can see my example sketch [here](https://katerhoades.github.io/BasicJavaPage
 ***More advanced tutorials can be found here:***<br><br>
 [Creative Coding by Allison Parrish](https://creative-coding.decontextualize.com/)<br><br>
 [Coding Train on Youtube](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+[Adding weird fonts to your site](https://www.pagecloud.com/blog/how-to-add-custom-fonts-to-any-website)
 
 <br><br>
 # Internet-Related Art Lectures <br>
