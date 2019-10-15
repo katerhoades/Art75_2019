@@ -17,8 +17,8 @@ You can see a Project 3 example [here](https://katerhoades.github.io/Proj3Exampl
 You can see my example sketch [here](https://katerhoades.github.io/BasicJavaPage/index.html) and the code for it [here](https://github.com/katerhoades/BasicJavaPage/blob/master/sketch.js).<br><br>
 ***More advanced tutorials can be found here:***<br><br>
 [Creative Coding by Allison Parrish](https://creative-coding.decontextualize.com/)<br><br>
-[Coding Train on Youtube](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
-[Adding weird fonts to your site](https://www.pagecloud.com/blog/how-to-add-custom-fonts-to-any-website)
+[Coding Train on Youtube](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)<br><br>
+[Adding weird fonts to your site](https://www.pagecloud.com/blog/how-to-add-custom-fonts-to-any-website)<br><br>
 
 <br><br>
 # Internet-Related Art Lectures <br>
