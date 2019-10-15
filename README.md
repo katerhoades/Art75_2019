@@ -4,6 +4,7 @@
 [Using GitHub Desktop and Atom](https://github.com/katerhoades/AtomDemo)<br><br>
 [Setting up a separate repository for your project](https://github.com/katerhoades/NetartSetup)<br><br>
 [Embedding Videos with HTML5](https://github.com/katerhoades/Videohtml5)<br><br>
+[Autoplaying and looping embedded videos from Vimeo](https://vimeo.zendesk.com/hc/en-us/articles/115004485728-Autoplaying-and-looping-embedded-videos)
 Need help with very basic HTML? Check out [w3schools](https://www.w3schools.com/html/html_basic.asp)<br><br>
 Basic CSS tutorials are [here](https://www.w3schools.com/css/css_intro.asp).<br><br>
 You can see a Project 3 example [here](https://katerhoades.github.io/Proj3Example/index.html) and the repository for this example [here](https://github.com/katerhoades/Proj3Example).<br><br>
