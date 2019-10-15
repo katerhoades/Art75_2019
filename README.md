@@ -7,6 +7,7 @@
 Need help with very basic HTML? Check out [w3schools](https://www.w3schools.com/html/html_basic.asp)<br><br>
 Basic CSS tutorials are [here](https://www.w3schools.com/css/css_intro.asp).<br><br>
 You can see a Project 3 example [here](https://katerhoades.github.io/Proj3Example/index.html) and the repository for this example [here](https://github.com/katerhoades/Proj3Example).<br><br>
+[Making a GIF with a transparent background](https://photoshopcafe.com/tutorials/transparent/transparent.htm)
 
 ## P5 Tutorials<br><br>
 [Basic Shapes](https://github.com/katerhoades/intro_p5) <br><br>
