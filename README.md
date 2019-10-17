@@ -9,6 +9,7 @@ Need help with very basic HTML? Check out [w3schools](https://www.w3schools.com/
 Basic CSS tutorials are [here](https://www.w3schools.com/css/css_intro.asp).<br><br>
 You can see a Project 3 example [here](https://katerhoades.github.io/Proj3Example/index.html) and the repository for this example [here](https://github.com/katerhoades/Proj3Example).<br><br>
 [Making a GIF with a transparent background](https://photoshopcafe.com/tutorials/transparent/transparent.htm)
+[Adding weird fonts to your site](https://www.pagecloud.com/blog/how-to-add-custom-fonts-to-any-website)<br><br>
 
 ## P5 Tutorials<br><br>
 [Basic Shapes](https://github.com/katerhoades/intro_p5) <br><br>
@@ -20,8 +21,6 @@ You can see my example sketch [here](https://katerhoades.github.io/BasicJavaPage
 ***More advanced tutorials can be found here:***<br><br>
 [Creative Coding by Allison Parrish](https://creative-coding.decontextualize.com/)<br><br>
 [Coding Train on Youtube](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)<br><br>
-***Other odds and ends***<br><br>
-[Adding weird fonts to your site](https://www.pagecloud.com/blog/how-to-add-custom-fonts-to-any-website)<br><br>
 
 <br><br>
 # Internet-Related Art Lectures <br>
